@@ -1,0 +1,15 @@
+matplotlib
+matplotlib-inline
+pandas
+scikit-learn
+scipy
+statsmodels
+seaborn
+pygam
+dmba
+xgboost
+numpy
+nltk
+census
+us
+
