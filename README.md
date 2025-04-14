@@ -1,2 +1,2 @@
 # compass-consulting
-To find the best business location in PA, start by analyzing your target market, researching potential areas, and considering factors like accessibility, infrastructure, and zoning regulations
+Finding the best business location in the US. We analyze target markets, research potential areas, and consider factors like accessibility, infrastructure, and zoning regulations.
