@@ -11,6 +11,8 @@ xgboost
 numpy
 nltk
 census
+addfips
+zipcodes
 us
 openpyxl
 
