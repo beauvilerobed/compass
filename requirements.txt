@@ -1,5 +1,4 @@
 matplotlib
-matplotlib-inline
 pandas
 scikit-learn
 scipy
@@ -15,4 +14,6 @@ addfips
 zipcodes
 us
 openpyxl
-
+tslearn
+requests
+ipython
