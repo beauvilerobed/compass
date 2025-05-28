@@ -1,0 +1,31 @@
+name: myenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - scipy
+  - statsmodels
+  - seaborn
+  - numpy
+  - nltk
+  - openpyxl
+  - requests
+  - ipython
+  - geopandas
+  - ipykernel
+  - certifi
+  - fiona
+  - pip:
+    - pygam
+    - dmba
+    - xgboost
+    - census
+    - addfips
+    - zipcodes
+    - us
+    - tslearn
