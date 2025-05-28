@@ -17,3 +17,7 @@ openpyxl
 tslearn
 requests
 ipython
+geopandas
+ipykernel
+certifi
+fiona
